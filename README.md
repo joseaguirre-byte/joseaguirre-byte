@@ -1,18 +1,15 @@
-# ⚡ Jose Aguirre | MoAgui DevStudio
-> **"El código que escala tu negocio"**
+> [!NOTE]
+> ### ⚡ _"El código que escala tu negocio"_
+> **Jose Manuel Aguirre** | Founder de **MoAgui DevStudio** & Full Stack Developer.
+> Creando soluciones digitales desde Córdoba, Veracruz.
 
 ---
 
-### 🛠️ Core Stack
-| Backend | Frontend | Database | Tools |
-| :--- | :--- | :--- | :--- |
-| `PHP / Laravel` | `Bootstrap` | `MySQL` | `n8n / AI` |
-| `C# / .NET` | `Figma (Design)` | `PostgreSQL` | `Git / Docker` |
-
----
-
-### 📈 Status Report
-```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% | Full Stack Dev
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░] 75%  | AI Automation
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 80%  | Desktop Apps (WPF)
+### 👨‍💻 `<AboutMe>`
+```json
+{
+  "name": "Jose Aguirre",
+  "education": "Ingeniería en Entornos Virtuales y Negocios Digitales (UTCV)",
+  "focus": ["Web Development", "Desktop Apps", "AI & Automation"],
+  "current_status": "Liderando MoAgui DevStudio & Open to work"
+}
